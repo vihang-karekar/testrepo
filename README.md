@@ -1,2 +1,2 @@
 # testrepo
-A test repository
+A test repository. Please delete later!
